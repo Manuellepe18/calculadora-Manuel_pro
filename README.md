@@ -1,6 +1,7 @@
-#Calculadora Pro en Python
+##Calculadora con Interfaz Gráfica en Python (Tkinter)
 
-Aplicación de calculadora con interfaz gráfica desarrollada en Python usando Tkinter.
+Aplicación de calculadora con interfaz gráfica desarrollada en Python utilizando Tkinter. 
+Este proyecto fue creado como parte de mi aprendizaje en desarrollo de software y manejo de interfaces gráficas.
 
 ---
 
@@ -34,6 +35,14 @@ python calculadora.py
 ![Calculadora](screenshot.png)
 
 ---
+
+##Habilidades demostradas
+
+- Programación en Python
+- Desarrollo de interfaces gráficas (Tkinter)
+- Manejo de eventos
+- Uso de Git y GitHub
+- Estructuración de proyectos
 
 ##Autor
 
